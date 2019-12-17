@@ -3,7 +3,7 @@ subtitle: "Data Scientist | Product Manager"
 
 description: #>- # this means to ignore newlines until "baseurl:"
   "Data Science Portfolio"
-  
+
 author: "James Allan Hall"
 email: "jallanhall@gmail.com"
 avatar: "assets/images/headshot.jpg"
@@ -24,17 +24,10 @@ pinterest_url:
 slack_url:
 dribbble_url:
 
-  
-# Google Analytics Tracking ID goes here:
-google_analytics: <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145609977-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-145609977-3');
-</script>
+# Google Analytics Tracking ID goes here:
+google_analytics: "UA-145609977-3"
+
 
 
 
